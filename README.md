@@ -118,7 +118,7 @@
 
 ### 📊 Statistics
 
-<div align="center">
+<div align="left">
     <img 
         alt="GitHub Stats" 
         height="200" 
