@@ -6,7 +6,7 @@
       "name": "Fábio Silva",
       "age": "20",
       "field": "Análise e Desenvolvimento de Sistemas (UNA) - 3º semestre",
-      "focus": "Data Engineering, Business Intelligence, Python, Power BI, QA",
+      "focus": "Data analyst, SQL, Python, Power BI, QA",
       "goal": "Desenvolver soluções inteligentes e eficientes que gerem valor aos negócios"
     }
   ]
