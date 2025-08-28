@@ -21,7 +21,7 @@
 
   <hr>
 
-    <h3>🧠 Languages & Technologies</h3>
+  🧠 Languages & Technologies
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40px" />
@@ -33,14 +33,14 @@
   <hr>
 
   <h3>📈 Data & BI Tools</h3>
-  <div align="center">
-    <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="40px" />
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Microsoft Excel" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" title="Snowflake" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="40px" />
-    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n" width="40px" />
-  </div>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="40px" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Microsoft Excel" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" title="Snowflake" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="40px" />
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n" width="40px" />
+</div>
 
   <hr>
 
