@@ -1,4 +1,4 @@
-# Hello! I'm Fábio Silva 🚀
+# Hello! I'm Fábio Silva 
 
 ###  Systems Engineer focused on AI, DevOps, and Back-End Architecture.
 
