@@ -28,13 +28,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OFabioSilvaa&show_icons=true&theme=gotham&hide_border=true" alt="Fabio Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabioSilvaa&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Top Langs" height="150" />
-</div>
-
-<br>
-
 ## 🧪 Selected Projects
 
 Since many of my projects are deployed in enterprise environments, source codes may be private. Here is a summary of what I build:
