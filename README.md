@@ -44,9 +44,6 @@ Since many of my projects are deployed in enterprise environments, source codes 
   - *Tech:* **FastAPI (Python), Docker.**
   - *Impact:* Building lightweight and performant REST APIs to serve Machine Learning models and data access points. Focus on documentation (Swagger) and microservices.
 
-- **🧠 MIND-AI (Empathetic Companion):**
-  - *Tech:* **LLMs, Prompt Engineering, Python.**
-  - *Impact:* AI system focused on emotional intelligence and empathetic interactions for mental health support contexts.
 
 <br>
 
