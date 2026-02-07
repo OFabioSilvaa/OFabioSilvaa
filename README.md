@@ -45,10 +45,10 @@ Aqui estão alguns projetos focados em Analytics e Automação:
   - *Tech:* **Tableau** (Análise Geoespacial), **Python/Pandas** (Limpeza de Dados).
   - *Insight:* Mapeamento de métricas de engajamento para identificar clientes em risco de saída.
 
-- **🤖 J.A.R.V.I.S. (Automação Bancária):**
-  - *Objetivo:* Ferramenta interna para centralizar políticas de crédito e automatizar consultas técnicas.
-  - *Tech:* **Python**, **Snowflake**, **GenAI (LLMs)**.
-  - *Impacto:* Redução do tempo de busca manual da equipe operacional através da estruturação de bases de conhecimento.
+- **🤖 J.A.R.V.I.S. (Assistente de Crédito):**
+  - *Objetivo:* Centralizar regras de crédito e portabilidade utilizando a tecnologia **Gemini Gems**.
+  - *Tech:* **Python** (Script de ETL: Google Sheets → JSON), **Google Sheets API**, **Gemini 1.5**.
+  - *Impacto:* Automação que transforma planilhas de regras de negócio em uma base de conhecimento estruturada (JSON) para consulta rápida via chat com IA.
 
 <br>
 
@@ -69,8 +69,9 @@ Aqui estão alguns projetos focados em Analytics e Automação:
     <h3>Código & Automação</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </div>
 
 </div>
