@@ -1,18 +1,18 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá, mundo! 🌎</h1></summary>
   </ul>
 </div>
 
 <p align="center">
-  Hi 👋, I'm <b>Fábio Silva</b>! <br>
-  <b>Data & AI Engineer</b> focused on building Intelligent Agents and Scalable Data Architectures.
+  Oi 👋, eu sou o <b>Fábio Silva</b>! <br>
+  <b>Analista de Dados</b> focado em Business Intelligence, Crédito e Automação de Processos.
 </p>
 
 <p align="center">
-  🚀 Currently developing solutions with <b>RAG (Retrieval-Augmented Generation)</b>, <b>LLMs</b>, and <b>Data Engineering</b> pipelines.
+  🚀 Atualmente aplicando <b>SQL</b>, <b>Power BI</b> e <b>Python</b> para resolver problemas reais no Setor Financeiro.
   <br>
-  🎯 My goal is to bridge the gap between raw data and AI-driven insights using modern tech stacks.
+  🎯 Meu objetivo é transformar dados brutos em insights acionáveis para tomada de decisão.
 </p>
 
 <br>
@@ -24,49 +24,59 @@
   <a href="https://github.com/OFabioSilvaa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:fabiosilvabh6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 <br>
 
-## 🧪 Selected Projects
+## 📊 Projetos em Destaque
 
-Since many of my projects are deployed in enterprise environments, source codes may be private. Here is a summary of what I build:
+Aqui estão alguns projetos focados em Analytics e Automação:
 
-- **🔐 Enterprise AI Agent (Oracle):**
-  - *Tech:* **Python, LangChain, Snowflake, RAG.**
-  - *Impact:* Autonomous agent designed to automate complex data architecture queries, acting as a natural language interface for database schemas (Internal Project).
+- **💳 Dashboard de Risco de Crédito:**
+  - *Objetivo:* Simular a concessão de crédito para minimizar a inadimplência.
+  - *Tech:* **SQL** (Segmentação), **Power BI** (KPIs de Risco), **Excel**.
+  - *Insight:* Identifiquei fatores de risco baseados na idade e duração do empréstimo (German Credit Data).
 
-- **🌊 Scalable Data Pipelines (ETL):**
-  - *Tech:* **Apache Airflow, PySpark, Pandas, SQL.**
-  - *Impact:* Developing orchestrated ETL workflows to process large datasets. Focus on data transformation, cleaning, and optimization for analytics using Pandas and distributed computing with PySpark.
+- **🔄 Análise de Churn e Retenção (Banco Digital):**
+  - *Objetivo:* Analisar o comportamento do cliente para prever cancelamentos.
+  - *Tech:* **Tableau** (Análise Geoespacial), **Python/Pandas** (Limpeza de Dados).
+  - *Insight:* Mapeamento de métricas de engajamento para identificar clientes em risco de saída.
 
-- **🔌 RESTful API Ecosystem:**
-  - *Tech:* **FastAPI (Python), Docker.**
-  - *Impact:* Building lightweight and performant REST APIs to serve Machine Learning models and data access points. Focus on documentation (Swagger) and microservices.
-
+- **🤖 J.A.R.V.I.S. (Automação Bancária):**
+  - *Objetivo:* Ferramenta interna para centralizar políticas de crédito e automatizar consultas técnicas.
+  - *Tech:* **Python**, **Snowflake**, **GenAI (LLMs)**.
+  - *Impacto:* Redução do tempo de busca manual da equipe operacional através da estruturação de bases de conhecimento.
 
 <br>
 
-## 🔥 Technical Stack
+## 🛠️ Stack Tecnológica
 
 <div align="center">
   
   <div style="display: inline-block; margin: 10px; vertical-align: top;">
-    <h3>Data Engineering & AI</h3>
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
-    <img align="center" alt="Apache Spark" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
-    <img align="center" alt="Apache Airflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
-    <img align="center" alt="Snowflake" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg"> 
+    <h3>Analytics & BI</h3>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
   </div>
   
   <div style="display: inline-block; margin: 10px; vertical-align: top;">
-    <h3>Backend & Infrastructure</h3>
-    <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <h3>Código & Automação</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </div>
 
 </div>
+
+<br>
+
+<p align="center">
+  <i>"Dados são o que você precisa para fazer análises. Informação é o que você precisa para fazer negócios."</i>
+</p>
