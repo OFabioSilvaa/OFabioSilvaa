@@ -6,13 +6,13 @@
 
 <p align="center">
   Oi 👋, eu sou o <b>Fábio Silva</b>! <br>
-  <b>Analista de Dados</b> focado em Business Intelligence, Crédito e Automação de Processos.
+  <b>Analista de Dados</b> focado em Business Intelligence e Inteligência Artificial.
 </p>
 
 <p align="center">
-  🚀 Atualmente aplicando <b>SQL</b>, <b>Power BI</b> e <b>Python</b> para resolver problemas reais no Setor Financeiro.
+  🚀 Atualmente desenvolvendo pipelines de dados, dashboards estratégicos e automações com <b>Python</b> e <b>LLMs</b>.
   <br>
-  🎯 Meu objetivo é transformar dados brutos em insights acionáveis para tomada de decisão.
+  🎯 Foco em transformar dados brutos em inteligência de negócio e produtos reais.
 </p>
 
 <br>
@@ -31,24 +31,24 @@
 
 <br>
 
-## 📊 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-Aqui estão alguns projetos focados em Analytics e Automação:
+Portfolio focado em **Automação com IA**, **Dados Públicos** e **Business Intelligence**:
 
-- **💳 Dashboard de Risco de Crédito:**
-  - *Objetivo:* Simular a concessão de crédito para minimizar a inadimplência.
-  - *Tech:* **SQL** (Segmentação), **Power BI** (KPIs de Risco), **Excel**.
-  - *Insight:* Identifiquei fatores de risco baseados na idade e duração do empréstimo (German Credit Data).
+- **🎙️ [AI News Podcast Generator](https://github.com/OFabioSilvaa/ai-news-podcast):**
+  - *O que é:* Pipeline autônomo que monitora notícias de tecnologia e cria um podcast diário via IA.
+  - *Tech:* **Python**, **Gemini 2.5 Flash** (Roteirização), **DuckDB**, **Edge-TTS** (Voz Neural) e **GitHub Actions**.
+  - *Impacto:* Automação serverless "End-to-End" que transforma RSS em áudio narrativo sem intervenção humana.
 
-- **🔄 Análise de Churn e Retenção (Banco Digital):**
-  - *Objetivo:* Analisar o comportamento do cliente para prever cancelamentos.
-  - *Tech:* **Tableau** (Análise Geoespacial), **Python/Pandas** (Limpeza de Dados).
-  - *Insight:* Mapeamento de métricas de engajamento para identificar clientes em risco de saída.
+- **🏘️ [Engenharia de Dados: Pampulha & Idosos](https://github.com/OFabioSilvaa/engenharia-dados-pampulha-idosos):**
+  - *O que é:* Estudo demográfico e ETL focado na população idosa da região da Pampulha.
+  - *Tech:* **Python**, **Pandas** (Tratamento de Dados), **Matplotlib/Seaborn** (Visualização).
+  - *Impacto:* Análise exploratória para identificar padrões populacionais e necessidades regionais baseadas em dados públicos.
 
-- **🤖 J.A.R.V.I.S. (Assistente de Crédito):**
-  - *Objetivo:* Centralizar regras de crédito e portabilidade utilizando a tecnologia **Gemini Gems**.
-  - *Tech:* **Python** (Script de ETL: Google Sheets → JSON), **Google Sheets API**, **Gemini 1.5**.
-  - *Impacto:* Automação que transforma planilhas de regras de negócio em uma base de conhecimento estruturada (JSON) para consulta rápida via chat com IA.
+- **🚗 [AutoPrime BI Dashboard](https://github.com/OFabioSilvaa/AutoPrime-BI-Dashboard):**
+  - *O que é:* Painel interativo para gestão e visualização de vendas automotivas.
+  - *Tech:* **Power BI**, **Análise de KPIs**, **Modelagem de Dados**.
+  - *Impacto:* Centralização de métricas de vendas e estoque para facilitar a tomada de decisão gerencial.
 
 <br>
 
@@ -57,21 +57,20 @@ Aqui estão alguns projetos focados em Analytics e Automação:
 <div align="center">
   
   <div style="display: inline-block; margin: 10px; vertical-align: top;">
-    <h3>Analytics & BI</h3>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+    <h3>Dados & Inteligência Artificial</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GenAI"/>
+    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Actions"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </div>
   
   <div style="display: inline-block; margin: 10px; vertical-align: top;">
-    <h3>Código & Automação</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <h3>Analytics & Visualização</h3>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   </div>
 
 </div>
@@ -79,5 +78,5 @@ Aqui estão alguns projetos focados em Analytics e Automação:
 <br>
 
 <p align="center">
-  <i>"Dados são o que você precisa para fazer análises. Informação é o que você precisa para fazer negócios."</i>
+  <i>"Transformando dados em decisões e ideias em automação."</i>
 </p>
